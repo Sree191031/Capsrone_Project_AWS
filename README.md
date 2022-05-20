@@ -4,9 +4,7 @@
 Group members:
 - Kaizer Rahaman (19IE10044)
 - SREEYA         (19AG10008)
-- Shalini Bansal (19CH10049)
-- Shreya Khare   (19ME10062)
-- Ayush Sharma   (19BT10009)
+
 
 ## Code Repository Organisation
 ```bash
@@ -37,11 +35,7 @@ Group members:
 ├── README.md
 ```
 
-## Obtaining the code and data
 
-First, clone this repository
-```
-https://github.com/manavkapadnis/CS60075_Course_Project__Multi_CoNER.git
 
 ```
 
